@@ -1,0 +1,68 @@
+for training 2
+accuracy =
+
+    0.8978
+
+========================
+for training 4
+accuracy =
+
+    0.9217
+
+========================
+for training 6
+accuracy =
+
+    0.9597
+========================
+for training 8
+
+accuracy =
+
+    0.9622
+
+========================
+for training 10
+
+accuracy =
+
+    0.9616
+
+========================
+for training 12
+
+accuracy =
+
+    0.9538
+
+=======================
+for training 14
+
+accuracy =
+
+    0.9506
+
+=======================
+for training 16
+
+accuracy =
+
+    0.9416
+
+=======================
+for training 18
+
+accuracy =
+
+    0.9369
+=======================
+for training 20
+accuracy =
+
+    0.9337
+=====================
+for training 22
+
+accuracy =
+
+    0.9344
