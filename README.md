@@ -1,2 +1,2 @@
 # mnist focus from certainty
- Picking the best focus of mnist dataset to classify
+ Picking the best focus of mnist dataset to classify numbers using CNN
